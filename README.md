@@ -6,7 +6,7 @@ A sudoku solver that uses backtracking to find the solution(s). I mainly wrote t
 
 ## To Do
 * Write a sudoku generator algorithm instead of hard-coding the sudoku puzzle
-* Create a visual app that shows how the backtracking algorithm works (not necessarily in Python)
+* ~~Create a visual app that shows how the backtracking algorithm works (not necessarily in Python)~~ (DONE: [check here](https://github.com/nibble-4bits/Sudoku-Solver-Visualizer))
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
